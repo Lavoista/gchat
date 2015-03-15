@@ -1,0 +1,1 @@
+Chat client for Android based phones.
